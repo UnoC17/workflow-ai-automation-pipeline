@@ -1,5 +1,5 @@
 # workflow-ai-automation-pipeline
-AI-assisted workflow automation pipeline using Google Docs, Pipedream, and Gemini to transform technical notes into structured knowledge base documentation.
+AI-assisted workflow automation pipeline using Google Docs, Pipedream, Chat GPT, & Gemini to transform technical notes into structured knowledge base documentation.
 
 # AI Workflow Automation Pipeline
 
