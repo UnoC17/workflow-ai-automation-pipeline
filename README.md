@@ -45,7 +45,7 @@ The goal was to reduce manual documentation tasks by creating a workflow that or
 
 ![Chat GPT AI Prompt](workflow-overview-two)
 
-![Gemini AI Workflow Overview](Screenshot 2026-07-08 at 2.48.30 PM)
+![Gemini AI Workflow Overview](workflow-screenshot)
 
 ### Pipedream Workflow
 ![Pipedream Workflow](pipedream-flow-one)
