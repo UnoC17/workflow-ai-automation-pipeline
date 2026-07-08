@@ -45,7 +45,7 @@ The goal was to reduce manual documentation tasks by creating a workflow that or
 
 ![Chat GPT AI Prompt](workflow-overview-two)
 
-![Gemini AI Workflow Overview](workflow-overview-three)
+![Gemini AI Workflow Overview](workflow-overview-threedup)
 
 ### Pipedream Workflow
 ![Pipedream Workflow](pipedream-flow-one)
