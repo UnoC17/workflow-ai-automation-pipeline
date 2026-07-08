@@ -59,10 +59,11 @@ The goal was to reduce manual documentation tasks by creating a workflow that or
 ### Documentation Output
 ![Documentation Output](google-doc-output)
 
-## Demo Video
 
+## Demo Video
 Watch the workflow demonstration:
 [Workflow Automation Demo](https://youtu.be/vA_jNsa7Bmw)
+
 ---
 
 ## Skills Demonstrated
