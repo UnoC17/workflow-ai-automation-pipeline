@@ -41,23 +41,23 @@ The goal was to reduce manual documentation tasks by creating a workflow that or
 ## Project Screenshots
 
 ### Workflow Overview
-![Fiber Cables Google Doc](Screenshot 2026-07-08 at 12.30.25 PM.png)
+![Fiber Cables Google Doc](workflow-overview)
 
-![Chat GPT AI Prompt](Screenshot 2026-07-08 at 12.43.31 PM.png)
+![Chat GPT AI Prompt](workflow-overview-two)
 
-![Gemini AI Workflow Overview](Screenshot 2026-07-08 at 1.15.29 PM.png)
+![Gemini AI Workflow Overview](workflow-overview-three)
 
 ### Pipedream Workflow
-![Pipedream Workflow](Screenshot 2026-05-05 at 9.14.50 PM.png)
+![Pipedream Workflow](pipedream-flow-one)
 
-![Pipedream Workflow](Screenshot 2026-07-08 at 1.22.58 PM.png)
+![Pipedream Workflow](pipedream-flow-two)
 
-![Pipedream Workflow](Screenshot 2026-07-08 at 1.22.21 PM.png)
+![Pipedream Workflow](pipedream-flow-three)
 
-![Pipedream Workflow](Screenshot 2026-07-08 at 1.23.52 PM.png)
+![Pipedream Workflow](pipedream-flow-four)
 
 ### Documentation Output
-![Documentation Output](Screenshot 2026-07-08 at 12.25.19 PM.png)
+![Documentation Output](google-doc-output)
 
 ---
 
